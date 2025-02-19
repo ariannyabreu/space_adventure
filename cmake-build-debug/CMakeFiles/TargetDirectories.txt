@@ -1,0 +1,3 @@
+C:/Users/azzin/Desktop/project100335875/cmake-build-debug/CMakeFiles/project100335875.dir
+C:/Users/azzin/Desktop/project100335875/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/azzin/Desktop/project100335875/cmake-build-debug/CMakeFiles/rebuild_cache.dir
